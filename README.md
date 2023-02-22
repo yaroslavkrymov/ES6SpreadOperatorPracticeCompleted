@@ -1,0 +1,2 @@
+# ES6SpreadOperatorPracticeCompleted
+Created with CodeSandbox
